@@ -4,7 +4,7 @@ It is a project where bank account holders can withdraw ,deposit and transfer mo
 ## Installation
 Install XAMPP version 3.2.2  
 ## Usage
-At first download the zip file from this repository. Then unzip it. Save the file in htdocs folder and this htdocs folder is in xampp folder. Run this pproject from a browser.
+At first download the zip file from this repository. Then unzip it. Save the file in htdocs folder and this htdocs folder is in xampp folder. Run this project from a browser.
 
 ## License
 TODO: Write license
